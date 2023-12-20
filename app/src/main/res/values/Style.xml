@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="temukan_lay">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#101623</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">
+            @color/primaryColour
+        </item>
+
+        <item name="colorSecondary">
+            @color/secondaryColour
+        </item>
+
+        <item name="colorTertiary">
+            @color/tertiaryColour
+        </item>
+
+    </style>
+
+    <style name="dr_irwan_gu">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#101623</item>
+    </style>
+
+
+</resources>

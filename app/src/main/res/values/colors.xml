@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColour">#FFFFFF</color>
+    <color name="secondaryColour">#199A8E</color>
+    <color name="tertiaryColour">#101623</color>
+    <color name="searchColour"> #FBFBFB</color>
+
+
+</resources>
